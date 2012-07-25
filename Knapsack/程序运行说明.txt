@@ -1,0 +1,16 @@
+假设编译后产生的可执行文件为Knapsack.exe
+则
+Knapsack.exe -d 50 > data.txt
+表示生成数据规模为50的测试数据，并保存到data.txt中
+
+Knapsack.exe -s < data.txt
+表示使用模拟退火算法，数据源为data.txt
+
+Knapsack.exe -g < data.txt
+表示使用贪心算法，数据源为data.txt
+
+Knapsack.exe -b < data.txt
+表示使用回溯算法，数据源为data.txt
+
+Knapsack.exe -p < data.txt 
+表示使用动态规划算法，数据源为data.txt
