@@ -10,7 +10,8 @@ jobdu_1384：二维数组的查找（剑指offer面试题3）
 jobdu_1387：斐波那契数列（剑指offer面试题9）
 
 TopCoder:
-EllysNewNickname：统计一个字符串中相邻的元音的字符数
+SRM 577 EllysNewNickname：统计一个字符串中相邻的元音的字符数
 SRM 577 EllysRoomAssignmentsDiv2：字符串处理（用sstream将字符串转换为数字，然后排序），注意审题，比赛的时候没注意审题导致错误
 SRM 578 DeerInZooDivTwo：很简单的数学处理
 SRM 578 GooseInZooDivTwo：利用了栈，比赛的时候代码总是出错，现在已经没问题了
+SRM 579 PrimalUnlicensedCreatures: 使用sort()函数
