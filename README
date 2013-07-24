@@ -7,6 +7,8 @@ xoj_1010：Number Triangles，一个简单的动态规划算法
 xoj_1463：记录出现次数最多的单词，使用map统计每个单词的出现次数
 
 jobdu_1384：二维数组的查找（剑指offer面试题3）
+jobdu_1510：替换空格（剑指offer面试题4）
+jobdu_1511：从头到尾打印链表（剑指offer面试题5）
 jobdu_1387：斐波那契数列（剑指offer面试题9）
 
 TopCoder:
