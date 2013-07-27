@@ -19,3 +19,6 @@ SRM 577 EllysRoomAssignmentsDiv2：字符串处理（用sstream将字符串转�
 SRM 578 DeerInZooDivTwo：很简单的数学处理
 SRM 578 GooseInZooDivTwo：利用了栈，比赛的时候代码总是出错，现在已经没问题了
 SRM 579 PrimalUnlicensedCreatures: 使用sort()函数
+
+other:
+deletesubstr.cpp：华为机试题，删除字符串中所有给定的子串
