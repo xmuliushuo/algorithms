@@ -31,6 +31,9 @@ SRM 578 GooseInZooDivTwo：利用了栈，比赛的时候代码总是出错，�
 SRM 579 PrimalUnlicensedCreatures: 使用sort()函数
 SRM 597 LittleElephantAndDouble
 SRM 597 LittleElephantAndString
+SRM 598 BinPackingEasy
+SRM 598 ErasingCharacters
+SRM 598 FoxAndFencingEasy
 
 other:
 deletesubstr.cpp：华为机试题，删除字符串中所有给定的子串
